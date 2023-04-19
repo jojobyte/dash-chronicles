@@ -23,8 +23,8 @@
 			- User connects with new contact via Xpub and saves with @alias
 				- @jojobyte shares Xpub (QR Code or dash protocol link) with @coolaj86
 					- `dash://<address>?<amount,etc>`
-					- `dash:XpubJOJOBYTE?mutual=true`
-					- `dash:xpub6EeJWM8tq4B8LVB1K6MBxD37yaVqJOJOvHV4m9Ahty4GBq9khPfiUTdhgeucJrVq54Ydtq74vywfBYTEncnefkzfRvGwB2zU2A8GACSUAxN?mutual=true`
+					- `dash:XpubJojobyteExampleNotReal?mutual=true` *not real*
+					- `dash:xpub6EeJWM8tq4B8LVB1K6MBxD37yaVqJOJOvHV4m9Ahty4GBq9khPfiUTdhgeucJrVq54Ydtq74vywfBYTEncnefkzfRvGwB2zU2A8GACSUAxN?mutual=true` *also not real*
 				- @coolaj86 scans QR or pastes dash protocol link in field and adds @jojobyte's Xpub as contact
 					- if `mutual=true` is appended to dash protocol link, automate @jojobyte adding @coolaj86
 				- @coolaj86 shares Xpub with @jojobyte
