@@ -7,7 +7,8 @@
 ### Stage 1
 1. User visits website
 	1. For the first time
-		1. User is prompted to either:
+		- See https://dashhive.github.io/crowdnode-ui/wallet for example 
+		- User is prompted to either:
 			1. generate new wallet & setup desired @alias
 				- Eg. @jojobyte
 			2. provide recovery phrase to restore existing wallet & set desired @alias
