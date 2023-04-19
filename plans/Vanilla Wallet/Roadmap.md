@@ -1,8 +1,9 @@
 # Project 
-https://trello.com/c/6XAuy9DW/94-request-new-concept#comment-6400ed856fe149503e8fc021
-https://trello.com/c/ky7fJliW/225-modern-vanilla-web-wallet
+- https://trello.com/c/6XAuy9DW/94-request-new-concept#comment-6400ed856fe149503e8fc021
+- https://trello.com/c/ky7fJliW/225-modern-vanilla-web-wallet
 
 # Stages
+
 ### Stage 1
 1. User visits website
 	1. For the first time
