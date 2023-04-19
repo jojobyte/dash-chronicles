@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"file","file":"assets/Pasted image 20230418231106.png","id":"6de1b7c84cb07bc3","x":-303,"y":-551,"width":400,"height":178},
+		{"type":"file","file":"assets/Pasted image 20230418230815.png","id":"d30c0df85298d609","x":-760,"y":-1120,"width":828,"height":117},
+		{"type":"file","file":"assets/Pasted image 20230418230707.png","id":"97952312dc9c7c6b","x":-840,"y":-662,"width":367,"height":400},
+		{"type":"file","file":"assets/Pasted image 20230418232012.png","id":"e318c79995cdaa2f","x":280,"y":-1320,"width":311,"height":400},
+		{"type":"text","text":"# Vanilla Wallet","id":"8c677cf3328e2567","x":-243,"y":-840,"width":280,"height":60,"color":"#ffffff"},
+		{"type":"file","file":"assets/Pasted image 20230418230734.png","id":"1178c07bfece6211","x":220,"y":-662,"width":332,"height":399}
+	],
+	"edges":[
+		{"id":"a4a36a75c510237a","fromNode":"8c677cf3328e2567","fromSide":"bottom","toNode":"6de1b7c84cb07bc3","toSide":"top"},
+		{"id":"ba558486e5d6d1a7","fromNode":"6de1b7c84cb07bc3","fromSide":"right","toNode":"1178c07bfece6211","toSide":"left"},
+		{"id":"ac3b11ff6dbd4d90","fromNode":"6de1b7c84cb07bc3","fromSide":"left","toNode":"97952312dc9c7c6b","toSide":"right"},
+		{"id":"6ced212981c96ff6","fromNode":"8c677cf3328e2567","fromSide":"top","toNode":"d30c0df85298d609","toSide":"bottom"},
+		{"id":"00532367f955c02c","fromNode":"d30c0df85298d609","fromSide":"right","toNode":"e318c79995cdaa2f","toSide":"left"},
+		{"id":"293a1036e2f12f8d","fromNode":"d30c0df85298d609","fromSide":"right","toNode":"1178c07bfece6211","toSide":"top"}
+	]
+}
