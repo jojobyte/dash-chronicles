@@ -12,7 +12,7 @@ https://discord.com/channels/745481679786868746/1078448819332726835
    - (lifetime, this month, today)
 - Track daily avg price with expense
    - (and spot price?)
-- Tracking where a coin in connected to other coins in the wallet
+- Tracking where a coin is connected to other coins in the wallet
 - https://trello.com/c/6XAuy9DW/94-request-new-concept#comment-6400ed856fe149503e8fc021
 	- Functional Requirements
 		1. User & Productivity-focused (e.g. like Venmo or Mint)
@@ -22,13 +22,14 @@ https://discord.com/channels/745481679786868746/1078448819332726835
 		-  convenient: access multiple accounts, categorize expenses, savings goals
 		-  smart: use crowdnode for interest-earning savings accounts
 		-  commercial: subscription payments, MEGA-like pre-payment links (key-in-hash, pubs-on-service)
+		-  secure: denominated cash-drawer payments to protect privacy
+		-  desktop: using Tauri or similar to provide OS integration for file storage, possibly send SMS or email via the OS default app
+	- Buzzwords
 		-  small: doesn't rely on local blockchain sync for account balances
 		-  fast: using our Dash Tools SDK with modern JS libraries that loads instantly
 		-  decentralized: the user can select insight and live wallet APIs that they trust
-		-  secure: denominated cash-drawer payments to protect privacy
-		-  integrated: can work with other apps and services like DashDirect, without fingerprinting change
 		-  modern: using secp256k1, DashPhrase, DashKeys, DashHD, DashTx, and DashSight
-		-  desktop: using Tauri or similar to provide OS integration for file storage, possibly send SMS or email via the OS default app
+		-  integrated: can work with other apps and services like DashDirect, without fingerprinting change
 - Priorities:
 	- share with contacts
 	- cash drawer with denominated coins
