@@ -48,7 +48,7 @@ https://discord.com/channels/745481679786868746/1078448819332726835
 	- HTML Tables when copied become something like a CSV file that can be pasted into spreadsheet software (excel or google sheets) maintaining their column & row structure
 - Each contact should be a side-by-side view:
 	- The half of the contact that you've received from them, and the half of the contact that you would send them.
-	- Repeating the context: You, as a user, don't have an XPub / QR that represents you. There is a different XPub for each half of each relationship. ^XPubPairing
+	- <a name="XPubPairing"></a> Repeating the context: You, as a user, don't have an XPub / QR that represents you. There is a different XPub for each half of each relationship. 
 	- The XPub is generated when you want to request money from the other person. You send them the thing that they send the money to.
 	- We can create links or QRs that are XPubs or have information for requesting an XPub, but those links or QRs will be pairwise, not singleton.
 
@@ -73,6 +73,9 @@ https://discord.com/channels/745481679786868746/1078448819332726835
 		- work by using them in all the scenarios a Wallet would need
 	- Pay people with Dash but by username.
 - All that said, the target should be anyone, maybe slightly tech savvy, but if you can use Venmo I think you should be able to use this.
+- ❓
+	- Could we send a dash blockchain message encrypted with our own keys and store the desired @alias in a blockchain message?
+	- If the Xpub is different for each [contact relationship](./Objectives.md#XPubPairing), then the desired @alias could only be set upon pairing with a contact and would likely require funds in each account.
 
 #### \@rion
 - DashDirect (gift card & prepaid Visa card purchases with Dash).

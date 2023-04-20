@@ -1,20 +1,11 @@
-# Project 
-- https://trello.com/c/6XAuy9DW/94-request-new-concept#comment-6400ed856fe149503e8fc021
-- https://trello.com/c/ky7fJliW/225-modern-vanilla-web-wallet
-
-# Stages
-
-### Stage 1
+### Path 1
 1. User visits website
 	1. For the first time
-		- See https://dashhive.github.io/crowdnode-ui/wallet for example 
 		- User is prompted to either:
 			1. generate new wallet & setup desired @alias
 				- Eg. @jojobyte
 			2. provide recovery phrase to restore existing wallet & set desired @alias
-			- ❓
-				- Could we send a dash blockchain message encrypted with our own keys and store the desired @alias in a blockchain message?
-				- If the Xpub is different for each [[Objectives#^XPubPairing|contact relationship]], then the desired @alias could only be set upon pairing with a contact and would likely require funds in each account.
+		- *See https://dashhive.github.io/crowdnode-ui/wallet for example*
 	2. With a wallet setup, User should see:
 		1. Dash Balance
 		2. Add Contact Button
@@ -42,5 +33,5 @@
 			- A list displaying contacts with per-contact controls to Send/Request funds, edit & remove
 				- MVP only able to edit name
 
-### Stage 2
+### Path 2
 - TODO

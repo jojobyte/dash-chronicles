@@ -58,3 +58,5 @@
 	- Request Button
 	- Transactions List
 
+## References
+- https://www.figma.com/file/RyRdwHplEyak7kFfc44T3Z/Dash-Wallet
