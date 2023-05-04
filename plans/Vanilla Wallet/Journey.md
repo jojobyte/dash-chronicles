@@ -5,7 +5,7 @@
 			1. generate new wallet & setup desired @alias
 				- Eg. @jojobyte
 			2. provide recovery phrase to restore existing wallet & set desired @alias
-		- *See https://dashhive.github.io/crowdnode-ui/wallet for example*
+		- *See https://dashhive.github.io/crowdnode-ui/#!/wallet for example*
 	2. With a wallet setup, User should see:
 		1. Dash Balance
 		2. Add Contact Button
